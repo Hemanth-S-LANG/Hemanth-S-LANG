@@ -22,6 +22,8 @@ Live demo: **https://weatherwebsite-eys3av6p4-hemanth-ss-projects-bc11f246.verce
 - Git & GitHub
 - C(Programming Language)
 - Object -orieented programming in Java
+- C++(Programing Language)
+- Data Structures and Algorithm
     
 ## 📂 My Projects
 Check out all my projects here:  
