@@ -101,43 +101,20 @@ I'm **Hemanth**, a Computer Science Engineering student at **RNSIT, Bangalore**.
 
 ---
 
-# 📚 2026 Roadmap
 
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] Node.js
-- [x] Express.js
-- [x] MongoDB
-- [ ] React.js
-- [ ] Redux Toolkit
-- [ ] TypeScript
-- [ ] Next.js
-- [ ] Docker
-- [ ] AWS
 
 ---
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: *(Add your profile)*
-- 📧 Email: *(Add your email)*
-- 🌍 Portfolio: *(Add when ready)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/hemanth-s-685296318?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+- 📧 Email: *(hs6384013@gmail.com)*
+
 
 ---
 
-# ☕ Fun Facts
 
-- 💡 I believe consistency beats motivation.
-- 🚀 Learning something new every day.
-- 📚 I enjoy solving DSA problems and building projects.
-- 🌱 Every project teaches me something new.
 
----
-
-# 💭 Quote
-
-> **"Every great developer was once a beginner who never stopped building."**
 
 ---
 
