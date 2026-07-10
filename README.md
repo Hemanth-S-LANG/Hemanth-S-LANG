@@ -91,13 +91,11 @@ I'm **Hemanth**, a Computer Science Engineering student at **RNSIT, Bangalore**.
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-> Enable this later using GitHub Actions.
-
-```md
-![Snake Animation](https://raw.githubusercontent.com/Hemanth-S-LANG/Hemanth-S-LANG/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hemanth-S-LANG/Hemanth-S-LANG/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
