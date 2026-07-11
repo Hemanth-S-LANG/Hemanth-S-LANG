@@ -112,6 +112,11 @@ I'm **Hemanth**, a Computer Science Engineering student at **RNSIT, Bangalore**.
 ---
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hemanth-S-LANG&theme=github_dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+</p>
 
 
 ---
