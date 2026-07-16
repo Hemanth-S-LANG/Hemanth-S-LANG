@@ -164,13 +164,6 @@ Currently building full MERN-stack projects — watch this space.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 💬 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌐 Connect With Me
 
